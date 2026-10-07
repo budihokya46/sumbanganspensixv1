@@ -1,0 +1,12 @@
+node_modules
+data
+npm-debug.log
+server.log
+server-error.log
+.env
+.git
+*.md
+Dockerfile
+docker-compose.yml
+deploy.ps1
+ecosystem.config.js

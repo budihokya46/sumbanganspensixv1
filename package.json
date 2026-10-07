@@ -1,0 +1,20 @@
+{
+  "name": "gotongroyong",
+  "version": "1.0.0",
+  "description": "GotongRoyong - Sistem Informasi Sumbangan Wali Murid Real-time",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.24",
+    "express": "^5.2.1",
+    "qrcode": "^1.5.4",
+    "xlsx": "^0.18.5",
+    "xlsx-js-style": "^1.2.0"
+  }
+}
